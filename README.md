@@ -4,6 +4,6 @@ It was a good project to practice my skills with HTML, SEO Optimization, and wor
 
 The project is not yet stylized, as part of the project instructions. But I can style it later on.
 
-Website: https://rabiibenrioui.github.io/single-page-cv/
+Website: <a href="https://rabiibenrioui.github.io/single-page-cv/">Project Page</a>
 
-Project URL (RoadmapSH): <a href="https://roadmap.sh/projects/single-page-cv">Single Page CV</a>
+Project URL (RoadmapSH): <a href="https://roadmap.sh/projects/single-page-cv">Project's Link</a>
