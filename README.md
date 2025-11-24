@@ -6,4 +6,4 @@ The project is not yet stylized, as part of the project instructions. But I can 
 
 Website: https://rabiibenrioui.github.io/single-page-cv/
 
-Project URL (RoadmapSH): https://roadmap.sh/projects/single-page-cv
+Project URL (RoadmapSH): <a href="https://roadmap.sh/projects/single-page-cv">Single Page CV</a>
