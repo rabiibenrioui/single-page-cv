@@ -5,3 +5,4 @@ It was a good project to practice my skills with HTML, SEO Optimization, and wor
 The project is not yet stylized, as part of the project instructions. But I can style it later on.
 
 Project page: https://rabiibenrioui.github.io/single-page-cv/
+Github URL: https://github.com/rabiibenrioui/single-page-cv
